@@ -9,3 +9,9 @@ Essa é a mesma sensação que um cadeirante sente ao chegar em algum lugar que 
 
 BuscAcesso é um projeto que visa trazer mais tranquilidade a vida de portadores de necessidades especiais na hora de ir a algun local,
 
+### REQUISITOS
+
+- ter tags que facilitam  interpretação de leitores de telas
+- com ceres que facilitem o acesso de daltonicos
+- ser de facil interpretação
+
