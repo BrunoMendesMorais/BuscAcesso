@@ -12,6 +12,9 @@ BuscAcesso é um projeto que visa trazer mais tranquilidade a vida de portadores
 ### REQUISITOS
 
 - ter tags que facilitam  interpretação de leitores de telas
-- com ceres que facilitem o acesso de daltonicos
+- com ceres que facilitem o acesso de daltônicos
 - ser de facil interpretação
 
+## COMO VAI SER FEITO ?
+
+- iremos ultilizar tags que auxiliam na interpretação do codigo por parte de leitores de tela
